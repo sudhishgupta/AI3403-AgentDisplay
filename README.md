@@ -1,13 +1,18 @@
 # AI3403-AgentDisplay
 A simple formation control algorithm implementation to display names.
 
-<center><h1>SUDHISH</h1></center>
+## Usage
+```bash
+python formation_control.py <NAME> <OUTPUT_DIR>
+```
+
+<center><h1>Example : SUDHISH</h1></center>
 
 ![Simulation Demo](assets/simulation_gif.gif)
 
 # Formation Control Simulation
 
-**Usage:** `python script.py <TEXT> <OUTPUT_DIR>`
+
 
 ## Mathematical Formulation
 
