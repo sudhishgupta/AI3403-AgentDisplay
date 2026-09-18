@@ -1,5 +1,7 @@
 # AI3403-AgentDisplay
-A simple formation control algorithm implementation to display names.
+A simple formation control algorithm implementation to display names. \
+Submitted by : Sudhish Gupta (BT23BTECH11023) \
+Course Instructor : Dr. Venkatraman Renganathan
 
 ## Usage
 ```bash
@@ -9,6 +11,7 @@ python formation_control.py <NAME> <OUTPUT_DIR>
 <center><h1>Example : SUDHISH</h1></center>
 
 ![Simulation Demo](assets/simulation_gif.gif)
+![Agent Network and Formation Error](assets/figure1.png)
 
 # Formation Control Simulation
 
